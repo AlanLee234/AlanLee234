@@ -1,16 +1,27 @@
-### Hi there 👋
-
-[![AlanLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanLee234&show_icons=true&theme=gradient)](https://github.com/AlanLee234/AlanLee234)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLee234&layout=compact)](https://github.com/AlanLee234/AlanLee234)
+### Hi there , I'm [AlanLee!](https://alanlee234.github.io) 👋
 
 
 
 ### 📫 How to reach me
 
-- alan.lee1998@outlook.com
+- 💬 Ask me about anything [here](https://github.com/alanlee234/alanlee234/issues)
+- :email: ​Email: alan.lee1998@outlook.com
+- CSDN: https://blog.csdn.net/tSRXH?spm=1010.2135.3001.5343
+- 简书: https://www.jianshu.com/u/5609419cb3f0
+
+### 😄 Fun at
+
+​	Big Data, Cloud Computing, Data Mining
+
+
+
+[![AlanLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanLee234&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff )](https://github.com/AlanLee234/AlanLee234)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLee234&layout=compact)](https://github.com/AlanLee234/AlanLee234)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=article)](https://github.com/alanlee234/article)
+
+
 
 <!--
 **AlanLee234/AlanLee234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +35,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
