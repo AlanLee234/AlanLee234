@@ -6,8 +6,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/alanlee234/alanlee234/issues)
 - :email: ​Email: alan.lee1998@outlook.com
-- CSDN: https://blog.csdn.net/tSRXH?spm=1010.2135.3001.5343
-- 简书: https://www.jianshu.com/u/5609419cb3f0
+- :globe_with_meridians: ​[bilibili](https://space.bilibili.com/34209351)  |  [CSDN](https://blog.csdn.net/tSRXH?spm=1010.2135.3001.5343)  |  [简书](https://www.jianshu.com/u/5609419cb3f0)
 
 ### 😄 Fun at
 
@@ -19,7 +18,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=article)](https://github.com/alanlee234/article)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=blog-post-library)](https://github.com/alanlee234/article)
 
 
 
