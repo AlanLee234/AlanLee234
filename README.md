@@ -14,9 +14,9 @@
 
 
 
-[![AlanLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanLee234&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff )](https://github.com/AlanLee234/AlanLee234)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLee234&layout=compact)](https://github.com/AlanLee234/AlanLee234)
+[![AlanLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanLee234&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff )](https://github.com/AlanLee234/AlanLee234)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLee234&layout=compact)](https://github.com/AlanLee234/AlanLee234)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=blog-post-library)](https://github.com/alanlee234/article)
 
