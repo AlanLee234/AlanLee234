@@ -6,11 +6,11 @@
 
 - 💬 Ask me about anything [here](https://github.com/alanlee234/alanlee234/issues)
 - :email: ​Email: alan.lee1998@outlook.com
-- :globe_with_meridians: ​[bilibili](https://space.bilibili.com/34209351)  |  [CSDN](https://blog.csdn.net/tSRXH?spm=1010.2135.3001.5343)  |  [简书](https://www.jianshu.com/u/5609419cb3f0)
+- :globe_with_meridians: ​[知乎](https://www.zhihu.com/people/river-star) | [bilibili](https://space.bilibili.com/34209351)  |  [CSDN](https://blog.csdn.net/tSRXH?spm=1010.2135.3001.5343)  |  [简书](https://www.jianshu.com/u/5609419cb3f0)
 
 ### 😄 Fun at
 
-​	Big Data, Cloud Computing, Data Mining
+​	Graph Data, Big Data, Cloud Computing, Data Mining
 
 
 
