@@ -18,9 +18,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLee234&layout=compact)](https://github.com/AlanLee234/AlanLee234)
 
-[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=blog-post-library)](https://github.com/alanlee234/blog-post-library)
+[![blog-post-library](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=blog-post-library)](https://github.com/alanlee234/blog-post-library)
 
-[![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=algorithm-diary)](https://github.com/AlanLee234/algorithm-diary)
+[![algorithm-diary](https://github-readme-stats.vercel.app/api/pin/?username=alanlee234&repo=algorithm-diary)](https://github.com/alanlee234/algorithm-diary)
 
 
 
