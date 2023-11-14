@@ -10,7 +10,7 @@
 
 ### 😄 Fun at
 
-​	Graph Data, Big Data, Cloud Computing, Data Mining
+​	Graph Data, Big Data, Multi-modal, Cloud Computing, Data Mining
 
 
 
@@ -18,9 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLee234&layout=compact)](https://github.com/AlanLee234/AlanLee234)
 
-[![blog-post-library](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=blog-post-library)](https://github.com/alanlee234/blog-post-library)
+[![alanlee-blog](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=alanlee-blog)](https://github.com/alanlee234/alanlee-blog)
 
-[![algorithm-diary](https://github-readme-stats.vercel.app/api/pin/?username=AlanLee234&repo=algorithm-diary)](https://github.com/alanlee234/algorithm-diary)
 
 
 
