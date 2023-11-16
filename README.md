@@ -10,7 +10,7 @@
 
 ### 😄 Fun at
 
-​	Graph Data, Big Data, Multi-modal, Cloud Computing, Data Mining
+​	Big Data(Data Lake), Graph, Multi-modal, Cloud Computing, Data Mining
 
 
 
